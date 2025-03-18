@@ -8,3 +8,5 @@ modifying feature-branch
 modifying feature-branch 2
 
 edit #1
+
+edit #2
